@@ -6,13 +6,13 @@
 baseurl = "/"
 
 # Title of your site
-title = "Liqing Li"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -50,21 +50,21 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Liqing Li"
-  role = "PhD. Student in Agricultural & Consumer Economics"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Illinois at Urbana-Champaign", url = "https://ace.illinois.edu/"  } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Liqing.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "lli40@illinois.edu"
- # address = "1301 W. GREGORY DRIVE, URBANA, IL 61801,USA"
-# office_hours = "Monday 10:00 to 13:00 or email for appointment"
- # phone = "888 888 88 88"
- # skype = "echo123"
- # telegram = ""
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -194,7 +194,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 2
+    publication_format = 3
 
   # Social/Academic Networking
   #
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:lli40@illinois.edu"
+    link = "mailto:test@example.org"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fa"
-  #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/GeorgeCushen"
 
-  #[[params.social]]
-  #  icon = "google-scholar"
-  #  icon_pack = "ai"
-  #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  #[[params.social]]
-  #  icon = "github"
-  #  icon_pack = "fa"
-  #  link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -250,23 +250,23 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -285,4 +285,3 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
-
