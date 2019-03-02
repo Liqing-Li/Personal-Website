@@ -13,7 +13,7 @@ weight = 5
     "Environemntal Economics",
     "Natural Resource Economics",
     "Land Conservation",
-    "Non-market Evluation"
+    "Non-market Valuation"
   ]
 
 # List your qualifications (such as academic degrees).
