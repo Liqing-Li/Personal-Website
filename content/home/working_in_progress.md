@@ -11,4 +11,3 @@ subtitle = ""
 weight = 65
 
 +++
-Li, L.,& Ando, A. “The Impact of Bison Reintroduction on the Local Economy”
