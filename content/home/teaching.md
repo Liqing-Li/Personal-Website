@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-Instructor for Microcomputer Applications at UIUC. Fall 2018
+Instructor for Microcomputer Applications at UIUC. Fall 2018; Spring 2019
 
 Teaching Assistant for Environmental Economics (undergraduate) at UIUC. Fall 2015; Fall 2016
 
