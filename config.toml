@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-135528431-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -252,7 +252,6 @@ defaultContentLanguageInSubdir = false
   url = "#working_paper"
   weight = 2
 
-
 [[menu.main]]
   name = "Working in Progress"
   url = "#working_in_progress"
@@ -263,7 +262,6 @@ defaultContentLanguageInSubdir = false
   url = "#teaching"
   weight = 4
 
-
 [[menu.main]]
   name = "Contact"
   url = "#contact"
@@ -272,7 +270,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Activity"
   url = "#activity"
-  weight = 5
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
