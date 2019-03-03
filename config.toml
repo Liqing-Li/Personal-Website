@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
    icon = "github"
    icon_pack = "fa"
-  link = "//github.com/Liqing-Li"
+   link = "//github.com/Liqing-Li"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
