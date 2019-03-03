@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
    icon = "github"
    icon_pack = "fa"
-  link = "//github.com/Liqing-Li"
+   link = "//github.com/Liqing-Li"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -247,15 +247,24 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 2
+
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Working Papers"
+  url = "#Working Papers"
   weight = 2
 
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Working in Progress"
+ url = "#Working in Progress"
   weight = 3
 
 [[menu.main]]
