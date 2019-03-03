@@ -11,5 +11,4 @@ subtitle = ""
 weight = 65
 
 +++
-“The Impact of Bison Reintroduction on the Local Economy” with Amy Ando
-“Early Life Experience and Willingness To Pay for Open Space Conservation” with Amy Ando
+Li, L.,& Ando, A. “The Impact of Bison Reintroduction on the Local Economy”
