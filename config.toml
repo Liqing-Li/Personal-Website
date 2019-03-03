@@ -254,7 +254,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Working Papers"
-  url = "#working_paper"
+  url = "#working paper"
   weight = 2
 
 #[[menu.main]]
@@ -264,7 +264,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Working in Progress"
- url = "#working_in_progress"
+ url = "#working in progress"
   weight = 3
 
 [[menu.main]]
