@@ -5,11 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-<<<<<<< HEAD
-title = "Working In Progress"
-=======
-title = "Working Papers"
->>>>>>> 87127b63615e7fd31216b6031107eb948f3fcf0f
+title = "Working in progress"
 subtitle = ""
 
 # Order that this section will appear in.
