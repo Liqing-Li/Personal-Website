@@ -19,7 +19,7 @@ count = 10
 list_format = 0
 
 +++
-“The Impact of Conservation Programs on Local Employment: A Case of Conservation Reserve Program”
+“The Impact of Conservation Reserve Program on Local Employment”
 
   .	Association of Environmental and Resource Economists (AERE) Annual Summer Meeting, Pittsburgh, Pennsylvania. (Jun. 2017)
 

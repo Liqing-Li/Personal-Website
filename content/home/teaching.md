@@ -14,6 +14,11 @@ subtitle = ""
 weight = 60
 
 +++
+\textbf{Instructor, University of Illinois}
+\textit{Had full teaching responsibility}
+• ACE 161 Microcomputer Applications (25 students)
+• Teaching evaluation score: 4.5/5 (Fall 2018); 4.4/5 (Spring 2019)
+
 Instructor for Microcomputer Applications at UIUC. Fall 2018; Spring 2019
 
 Teaching Assistant for Environmental Economics (undergraduate) at UIUC. Fall 2015; Fall 2016
