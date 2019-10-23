@@ -11,14 +11,13 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 55
 
 +++
 
 Instructor (Full course responsibility):
 
 Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
-• Teaching evaluation score: 4.5/5 (Fall 2018); 4.4/5 (Spring 2019)
 
 Teaching Assistant:
 
