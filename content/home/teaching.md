@@ -14,15 +14,18 @@ subtitle = ""
 weight = 60
 
 +++
-\textbf{Instructor, University of Illinois}
-\textit{Had full teaching responsibility}
-• ACE 161 Microcomputer Applications (25 students)
+
+Instructor (Full course responsibility):
+
+Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
 • Teaching evaluation score: 4.5/5 (Fall 2018); 4.4/5 (Spring 2019)
 
-Instructor for Microcomputer Applications at UIUC. Fall 2018; Spring 2019
+Teaching Assistant:
 
-Teaching Assistant for Environmental Economics (undergraduate) at UIUC. Fall 2015; Fall 2016
+Environmental Economics (undergraduate) at UIUC. Fall 2015; Fall 2016
 
-Teaching Assistant for Agricultural Consumer and Resource Econ (undergraduate) at UIUC. Spring 2016
+Agricultural Consumer and Resource Econ (undergraduate) at UIUC. Spring 2016
 
-Teaching Assistant for Retirement & Benefit Planning (undergraduate) at UIUC. Fall 2014;
+Retirement & Benefit Planning (undergraduate) at UIUC. Spring 2015
+
+Agricultural Marketing at UIUC. Fall 2014; Spring 2019
