@@ -16,6 +16,7 @@ weight = 60
 +++
 **I-Promise mentor**
 University of Illinois 2019
+<<<<<<< HEAD
 
 **Abstract Reviewer** 
 Association of Environmental and Resource Economists (AERE) Annual Summer Meeting (2018)
@@ -27,5 +28,17 @@ Department of Agricultural and Consumer Economics, University of Illinois (2017 
 Heartland Workshop in Environmental and Resource Economics, UIUC (2016, 2017)
 
 **Organizational Assistant**
+=======
+**Abstract Reviewer** 
+Association of Environmental and Resource Economists (AERE) Annual Summer Meeting (2018)
+
+**Secretary of Graduate Student Organization**
+Department of Agricultural and Consumer Economics, University of Illinois (2017 - 2018)
+
+**Organizational Assistant**
+Heartland Workshop in Environmental and Resource Economics, UIUC (2016, 2017)
+
+**Organizational Assistant**
+>>>>>>> 57062893e987e79585453dc7832190ae4148bcfb
 program in Environmental and Resource Economics (pERE) Seminar, UIUC (Srping, 2017)
 
