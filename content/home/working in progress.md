@@ -39,7 +39,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-Li, L., Ando, A.“Early Life Experience and Willingness To Pay for Conservation” 
+Li, L., Ando, A. “Early Life Experience and Willingness To Pay for Conservation” 
 
 Li, L., Ando, A. “The Impact of Bison Reintroduction on Local Economies”
 
