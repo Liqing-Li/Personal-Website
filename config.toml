@@ -229,10 +229,10 @@ defaultContentLanguageInSubdir = false
   #  icon_pack = "ai"
   #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  #[[params.social]]
-  #  icon = "github"
-  #  icon_pack = "fa"
-  #  link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/Liqing-Li"
 
 
 # Navigation Links
@@ -253,26 +253,25 @@ defaultContentLanguageInSubdir = false
   url = "#working paper"
   weight = 2
 
-
 [[menu.main]]
   name = "Research"
   url = "#talks"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Activity"
   url = "#activity"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
   
 
 
