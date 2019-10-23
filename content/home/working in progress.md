@@ -5,11 +5,11 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "Working Papers"
+title = "Working In Progress"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 25
 
 # Number of publications to list.
 count = 10
@@ -35,7 +35,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-Li, L.“The Effect of Urban Tree Planting on Residential Property Values and Gentrification” (Job Market Paper)
+Li, L., Ando, A.“Early Life Experience and Willingness To Pay for Conservation” 
 
-Li, L., A.W. Ando, B. E. Kirwan, “The impact of the Conservation Reserve Program on local employment.”
+Li, L., Ando, A. “The Impact of Bison Reintroduction on Local Economies”
 
