@@ -15,11 +15,11 @@ weight = 55
 
 +++
 
-Instructor (Full course responsibility):
+**Instructor** (Full course responsibility):
 
 Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
 
-Teaching Assistant:
+**Teaching Assistant**:
 
 Environmental Economics (undergraduate) at UIUC. Fall 2015; Fall 2016
 
