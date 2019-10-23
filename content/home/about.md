@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Environemntal Economics",
     "Natural Resource Economics",
-    "Urban Economics".
+    "Urban Economics",
     "Land Conservation",
     "Non-market Valuation"
   ]
