@@ -18,7 +18,7 @@ weight = 60
 University of Illinois 2019
 
 **Abstract Reviewer** 
-Association of Environmental and Resource Economists (AERE) Annual Summer Meeting (2018)
+Agricultural and Applied Economics Association (AAEA) Annual Summer Meeting (2018)
 
 **Secretary of Graduate Student Organization**
 Department of Agricultural and Consumer Economics, University of Illinois (2017 - 2018)
