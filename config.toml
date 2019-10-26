@@ -264,7 +264,7 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Activity"
+  name = "Service"
   url = "#activity"
   weight = 5
 
