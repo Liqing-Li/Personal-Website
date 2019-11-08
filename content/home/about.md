@@ -19,9 +19,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. candidate in Applied Economics" 
+  course = "PhD in Applied Economics" 
   institution = "University of Illinois at Urbana-Champaign,IL, USA" 
-  year = "2013 to present"
+  year = "Expected: May 2020"
 
 #[[education.courses]]
 #  course = "MEng in Artificial Intelligence"
