@@ -14,6 +14,7 @@ subtitle = ""
 weight = 55
 
 +++
+[Teaching statement](Statement/Teaching.pdf)
 
 **Instructor** (Full course responsibility):
 
