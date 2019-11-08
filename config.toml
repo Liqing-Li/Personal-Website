@@ -242,7 +242,9 @@ defaultContentLanguageInSubdir = false
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
+  
 
+  
 [[menu.main]]
   name = "Home"
   url = "#about"
@@ -273,7 +275,10 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 6
   
-
+[[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
