@@ -36,5 +36,5 @@ weight = 5
 +++
 
 # Biography
-I am is a Phd. candiate in Applied Economics. My research interests lie in the field of environmental economics with a concentration on conservation policy, environmental justice, and non-market valuation. I focus on understanding the human-environment nexus using modern econometric methods for causal inference and several tools in the non-market valuation toolbox. In my current research, I study the effects of policies to protect and restore the environment, and I explore sources of heterogeneity in individuals' preferences for environmental amenities. 
+I am a Ph.D. candidate in Applied Economics. My research interests lie in the field of environmental economics with a concentration on conservation policy, environmental justice, and non-market valuation. I focus on understanding the human-environment nexus using modern econometric methods for causal inference and several tools in the non-market valuation toolbox. In my current research, I study the effects of policies to protect and restore the environment, and I explore sources of heterogeneity in individuals' preferences for environmental amenities. 
 
