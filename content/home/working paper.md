@@ -36,7 +36,9 @@ publication_type = "-1"
 exclude_selected = false
 +++
 [Research statement](Statement/Research.pdf)
-Li, L. “The Effect of Urban Tree Planting on Residential Property Values and Gentrification” (Job Market Paper)
+
+
+Li, L. “The Effect of Urban Tree Planting on Residential Property Values and Gentrification” [Job Market Paper](publication/NYCtree.pdf)
 
 Li, L., A.W. Ando, B. E. Kirwan, “The impact of the Conservation Reserve Program on local employment.”
 
