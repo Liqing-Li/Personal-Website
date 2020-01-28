@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Environemntal Economics",
+    "Environmental Economics",
     "Natural Resource Economics",
     "Urban Economics",
     "Land Conservation",
