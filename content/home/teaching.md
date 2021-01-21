@@ -16,6 +16,7 @@ weight = 55
 +++
 
 **Instructor** (Full course responsibility):
+
 Intermediate Microeconomics at CSUF. Fall 2020; Spring 2021
 
 Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
