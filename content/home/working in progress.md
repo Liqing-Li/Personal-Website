@@ -35,7 +35,8 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-Li, L., Ando, A. “Early Life Experience and Willingness To Pay for Conservation” 
 
-Li, L., Ando, A. “The Impact of Bison Reintroduction on Local Economies”
+“The Impact of Bison Reintroduction on Local Economies” with Ando, A.
+"Wildfires and Birth outcomes in California" with Singh, P.
+"Urban Agriculture: Social Equity and Gentrification"
 

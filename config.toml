@@ -51,15 +51,17 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Liqing Li"
-  role = "PhD candidate in Applied Economics"
+  role = "Assistant Professor of Economics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Illinois at Urbana-Champaign", url = "https://ace.illinois.edu/"  } ]
+  organizations = [ { name = "California State Univeristy, Fullerton"} ]
+
+  #organizations = [ { name = "California State Univeristy, Fullerton", url = "https://ace.illinois.edu/"  } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Liqing.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "lli40@illinois.edu"
+  email = "liqing@fullerton.edu"
  # address = "1301 W. GREGORY DRIVE, URBANA, IL 61801,USA"
 # office_hours = "Monday 10:00 to 13:00 or email for appointment"
  # phone = "888 888 88 88"

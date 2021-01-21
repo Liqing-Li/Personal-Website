@@ -14,9 +14,10 @@ subtitle = ""
 weight = 55
 
 +++
-[Teaching statement](Statement/Teaching.pdf)
+
 
 **Instructor** (Full course responsibility):
+Intermediate microeconomics at CSUF. Fall 2020; Spring 2021
 
 Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
 

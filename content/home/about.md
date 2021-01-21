@@ -22,11 +22,6 @@ weight = 5
   institution = "University of Illinois at Urbana-Champaign,IL, USA" 
   year = "2020"
 
-#[[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2009
-
 [[education.courses]]
   course = "BA in Economics"
   institution = "University of Illinois at Urbana-Champaign"
@@ -35,5 +30,5 @@ weight = 5
 +++
 
 # Biography
-I am a Ph.D. candidate in Applied Economics. My research interests lie in the field of environmental economics with a concentration on conservation policy, environmental justice, and non-market valuation. I focus on understanding the human-environment nexus using modern econometric methods for causal inference and several tools in the non-market valuation toolbox. In my current research, I study the effects of policies to protect and restore the environment, and I explore sources of heterogeneity in individuals' preferences for environmental amenities. 
+As an applied economist, my research interests lie in the field of environmental economics with a concentration on conservation policy, environmental justice, and non-market valuation. I focus on understanding the human-environment nexus using modern econometric methods for causal inference and several tools in the non-market valuation toolbox. In my current research, I study the effects of policies to protect and restore the environment, and I explore sources of heterogeneity in individuals' preferences for environmental amenities. 
 
