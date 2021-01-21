@@ -11,7 +11,6 @@ weight = 5
 [interests]
   interests = [
     "Environmental Economics",
-    "Natural Resource Economics",
     "Urban Economics",
     "Land Conservation",
     "Non-market Valuation"
@@ -21,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Applied Economics" 
   institution = "University of Illinois at Urbana-Champaign,IL, USA" 
-  year = "Expected: May 2020"
+  year = "2020"
 
 #[[education.courses]]
 #  course = "MEng in Artificial Intelligence"
