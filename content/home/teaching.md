@@ -14,7 +14,11 @@ subtitle = ""
 weight = 55
 
 +++
+<<<<<<< HEAD
 
+=======
+#[Teaching statement](Statement/Teaching.pdf)
+>>>>>>> 64595f11814cefbc96f1dbb97858743e65874778
 
 **Instructor** (Full course responsibility):
 Intermediate microeconomics at CSUF. Fall 2020; Spring 2021
