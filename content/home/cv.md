@@ -15,4 +15,4 @@ weight = 65
 
 +++
 
-My CV is available in [PDF](cv/CV.pdf) form. (Last updated: December, 2020)
+My CV is available in [PDF](cv/CV.pdf) form. (Last updated: April, 2021)
