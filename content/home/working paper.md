@@ -37,7 +37,7 @@ exclude_selected = false
 +++
 
 
-Li, L. “Environmental Goods Provision and Gentrification: Evidence from MillionTreesNYC” (Submitted)
+Li, L. “Environmental Goods Provision and Gentrification: Evidence from MillionTreesNYC” (Under Review)
 
 Li, L., Ando, A. “Early Life Experience and Willingness To Pay for Conservation” 
 
