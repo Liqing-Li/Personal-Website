@@ -39,8 +39,5 @@ exclude_selected = false
 
 Brock, M., Doremus, J., & Li, L. ``Birds of a Feather Lockdown Together: Mutual bird-human benefits during a global pandemic." Accepted at Ecological Economics
 
-<<<<<<< HEAD
-Li, L., Long, D., & Rouhi Rad, M. & Sloggy, M.``Stay-at-Home Orders and the Willingness to Stay Home During the COVID-19 Pandemic: A Stated-Preference Discrete Choice Experiment." PLOS One (2021)
-=======
-Li, L., Long, D., & Rouhi Rad, M. ``Stay-at-Home Orders and the Willingness to Stay Home During the COVID-19 Pandemic: A Stated-Preference Discrete Choice Experiment." PLOS One (2021)
->>>>>>> 64c848504c310172b57036f29b1fa65b59ca6b19
+Li, L., Long, D., Rouhi Rad, M. & Sloggy, M.``Stay-at-Home Orders and the Willingness to Stay Home During the COVID-19 Pandemic: A Stated-Preference Discrete Choice Experiment." PLOS One (2021)
+
