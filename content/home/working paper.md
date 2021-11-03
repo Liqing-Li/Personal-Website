@@ -36,7 +36,6 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-
 Li, L. “Environmental Goods Provision and Gentrification: Evidence from MillionTreesNYC” (Revision Requested at Journal of Environmental Economics and Management)
 
 Li, L., Ando, A. “Early Life Experience and Willingness To Pay for Conservation” (Under Review at Journal of Environmental Economics and Management)
