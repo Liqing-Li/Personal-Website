@@ -46,4 +46,5 @@ Doremus,J, Li, L., Jones, D.“Locked down but load the feeder: Covid-related su
 
 Li, L., A.W. Ando, B. E. Kirwan, “The impact of the Conservation Reserve Program on local employment.”
 
+Li, L., D. Long , “Household Preferences for Impure Public Goods: an Application of Urban Community Gardens.”
 
