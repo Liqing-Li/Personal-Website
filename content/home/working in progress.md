@@ -41,3 +41,5 @@ exclude_selected = false
 
 "Urban Agriculture: Social Equity and Gentrification" with Long, D.
 
+“The effect of climate change information on food choices” with Liu, H. and Long, D.
+
