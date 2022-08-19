@@ -36,9 +36,9 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Li, L., Ando, A (2022) ``The Impact of Bison Reintroduction on Local Economies.”  Agricultural and Resource Economics Review. DOI: https://doi.org/10.1017/age.2022.13
+Li, L., Ando, A (2022) "The Impact of Bison Reintroduction on Local Economies."  Agricultural and Resource Economics Review. DOI: https://doi.org/10.1017/age.2022.13
 
-Brock, M., Doremus, J., & Li, L. (2021) ``Birds of a Feather Lockdown Together: Mutual bird-human benefits during a global pandemic." Ecological Economics, 189, 107174.
+Brock, M., Doremus, J., & Li, L. (2021) "Birds of a Feather Lockdown Together: Mutual bird-human benefits during a global pandemic." Ecological Economics, 189, 107174. https://doi.org/10.1016/j.ecolecon.2021.107174
 
-Li, L., Long, D., Rouhi Rad, M. & Sloggy, M.(2021)``Stay-at-Home Orders and the Willingness to Stay Home During the COVID-19 Pandemic: A Stated-Preference Discrete Choice Experiment." PloS One, 16(7), e0253910.
+Li, L., Long, D., Rouhi Rad, M. & Sloggy, M.(2021) "Stay-at-Home Orders and the Willingness to Stay Home During the COVID-19 Pandemic: A Stated-Preference Discrete Choice Experiment." PloS One, 16(7), e0253910. https://doi.org/10.1371/journal.pone.0253910
 
