@@ -16,20 +16,21 @@ weight = 55
 +++
 
 **Instructor** (Full course responsibility):
-Economics, Causality, and Analytics at CSUF. 2022
 
-Environmental and Natural Resource Economics (Master-level) at CSUF. 2021
+Economics, Causality, and Analytics at CSUF. *2022*
 
-Intermediate Microeconomics at CSUF. 2020 - 2022
+Environmental and Natural Resource Economics (Master-level) at CSUF. *2021*
 
-Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
+Intermediate Microeconomics at CSUF. *2020 - 2022*
+
+Microcomputer Applications at UIUC. *Fall 2018; Spring 2019; Fall 2019*
 
 **Teaching Assistant**:
 
-Environmental Economics (undergraduate) at UIUC. Fall 2015; Fall 2016
+Environmental Economics (undergraduate) at UIUC. *Fall 2015; Fall 2016*
 
-Agricultural Consumer and Resource Econ (undergraduate) at UIUC. Spring 2016
+Agricultural Consumer and Resource Econ (undergraduate) at UIUC. *Spring 2016*
 
-Retirement & Benefit Planning (undergraduate) at UIUC. Spring 2015
+Retirement & Benefit Planning (undergraduate) at UIUC. *Spring 2015*
 
 Agricultural Marketing at UIUC. Fall 2014; Spring 2019
