@@ -16,8 +16,11 @@ weight = 55
 +++
 
 **Instructor** (Full course responsibility):
+Economics, Causality, and Analytics at CSUF. 2022
 
-Intermediate Microeconomics at CSUF. Fall 2020; Spring 2021
+Environmental and Natural Resource Economics (Master-level) at CSUF. 2021
+
+Intermediate Microeconomics at CSUF. 2020 - 2022
 
 Microcomputer Applications at UIUC. Fall 2018; Spring 2019; Fall 2019
 
