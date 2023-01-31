@@ -35,6 +35,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+Li, L., Ando, A. “Early Exposure to Nature and Willingness-To-Pay for It: The Value of Tallgrass Prairie Grassland Restoration” (Accepted at Land Economics)
 
 Li, L., Ando, A (2022) "The Impact of Bison Reintroduction on Local Economies."  *Agricultural and Resource Economics Review*. DOI: https://doi.org/10.1017/age.2022.13
 
