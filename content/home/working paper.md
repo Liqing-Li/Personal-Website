@@ -36,9 +36,9 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Li, L. "Environmental Goods Provision and Gentrification: Evidence from MillionTreesNYC" (R&R at Journal of Environmental Economics and Management)
-
 Doremus,J, Li, L., Jones, D. "Locked down but load the feeder: Covid-related surge in global wild bird feeding" (R&R)
 
-Li, L., Ando, A., "The impact of the Conservation Reserve Program on local employment."
+Li, L., Ando, A., "The impact of the Conservation Reserve Program on local employment." (under review)
+
+Li, L., Long, D “Household Preference for Community Gardens - Discrete Choice Experiment Approach” (under review)
 
