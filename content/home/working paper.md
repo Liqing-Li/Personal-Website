@@ -36,9 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Doremus,J, Li, L., Jones, D. "Locked down but load the feeder: Covid-related surge in global wild bird feeding" (R&R)
-
-Li, L., Ando, A., "The impact of the Conservation Reserve Program on local employment." (under review)
+Li, L., Ando, A., "Does Farmland Retirement A ect Local Employment? Evidence from the Conservation Reserve Program." (under review) [PDF](publication/CRP_working paper share.pdf)
 
 Li, L., Long, D “Household Preference for Community Gardens - Discrete Choice Experiment Approach” (under review)
 
