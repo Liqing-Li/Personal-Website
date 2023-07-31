@@ -38,8 +38,6 @@ exclude_selected = false
 
 "The effect of climate change information on food choices" with Liu, H. and Long, D.
 
-“Who Values Urban Open Spaces? Investigating Heterogeneity in Capitalization of Open Space” with Livy. M
-
 “Persistent and Immediate Effects of Land Conservation Programs on Local Economy: Evidence from Linking Historical and Current Conservation Programs” with Howlader, A
 
 "Wildfires and Birth outcomes in California" with Singh, P.
