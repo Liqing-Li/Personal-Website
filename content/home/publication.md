@@ -35,11 +35,11 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-Li, L.“Environmental Goods Provision and Gentrification: Evidence from MillionTreesNYC” (Accepted at Journal of Environmental Economics and Management) https://doi.org/10.1016/j.jeem.2023.102828
+Li, L.“Environmental Goods Provision and Gentrification: Evidence from MillionTreesNYC” *Journal of Environmental Economics and Management* DOI: https://doi.org/10.1016/j.jeem.2023.102828
 
-Li, L., Ando, A. “Early Exposure to Nature and Willingness-To-Pay for It: The Value of Tallgrass Prairie Grassland Restoration” (Accepted at Land Economics)
+Li, L., Ando, A. “Early Exposure to Nature and Willingness-To-Pay for It: The Value of Tallgrass Prairie Grassland Restoration” *Land Economics* DOI: https://doi.org/10.3368/le.99.4.070822-0054R
 
-Doremus,J, Li, L., Jones, D. "Locked down but load the feeder: Covid-related surge in global wild bird feeding" (Accepted at PloS One)
+Doremus, J, Li, L., Jones, D. "Locked down but load the feeder: Covid-related surge in global wild bird feeding". *PloS One*, https://doi.org/10.1371/journal.pone.0287116
 
 Li, L., Ando, A (2022) "The Impact of Bison Reintroduction on Local Economies."  *Agricultural and Resource Economics Review*. DOI: https://doi.org/10.1017/age.2022.13
 
