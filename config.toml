@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Agricultural Economics"}，{ name = "Texas A&M University"} ]
+  organizations = [ { name = "Department of Agricultural Economics, Texas A&M University "} ]
 
   #organizations = [ { name = "California State Univeristy, Fullerton", url = "https://ace.illinois.edu/"  } ]
 
