@@ -36,9 +36,9 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Li, L., Ando, A., "Does Farmland Retirement A effect Local Employment? Evidence from the Conservation Reserve Program." (under review) [PDF](publication/CRP_working paper share.pdf)
+Li, L., Ando, A., "Does Farmland Retirement effect Local Employment? Evidence from the Conservation Reserve Program." (Revision requested at AEPP) [PDF](publication/CRP_working paper share.pdf)
 
 Li, L., Long, D “Household Preference for Community Gardens - Discrete Choice Experiment Approach” (under review)
 
-Li, L., Livy. M “Who Values Urban Open Spaces? Investigating Heterogeneity in Capitalization of Open Space” 
+Li, L., Livy. M “Who Values Urban Open Spaces? Investigating Heterogeneity in Capitalization of Open Space” (under review)
 
