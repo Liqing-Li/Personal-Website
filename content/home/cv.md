@@ -15,4 +15,4 @@ weight = 65
 
 +++
 
-My CV is available in [PDF](cv/Liqing-cv2024.pdf) form. (Last updated: Aug, 2024)
+My CV is available in [PDF](cv/CV_2025.pdf) form. (Last updated: Aug, 2025)
